@@ -54,10 +54,6 @@ The NFT Lending Protocol has significant potential for expansion and enhancement
 
 **Smart Contract Information:**
 - **Network**: Stacks Mainnet/Testnet
-- **Contract Address**: [To be added after deployment]
-- **Contract Name**: nft-lending-protocol
-- **Deployment Block**: [To be added after deployment]
-- **Deployment Transaction**: [To be added after deployment]
 
 **Contract Functions:**
 - `create-loan`: Create a new loan using NFT as collateral
